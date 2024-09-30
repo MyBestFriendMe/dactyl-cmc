@@ -7,6 +7,4 @@
  if you would like to see a build tutorial on this exact keyboard then I will try to make time to
  get all of the details recorded on this repo. 
 
-
-https://imgur.com/a/NdqoIzp
 ![image](https://imgur.com/a/NdqoIzp.jpg)
